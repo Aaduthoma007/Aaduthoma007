@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Tom+Geo;Full+Stack+Developer;Network+Enthusiast;Building+for+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Tom+Geo;Full+Stack+Developer;AI%2FML+Enthusiast;Network+Enthusiast;Building+for+2026" alt="Typing SVG" />
   
   <br/>
 
   <a href="https://www.linkedin.com/in/tom-geo-61371531b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aaduthoma007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -24,18 +21,18 @@
 <tr>
 <td width="600px">
 <pre>
-<span style="color: #ff79c6">const</span> <span style="color: #8be9fd">tom_geo</span> = {
-    <span style="color: #f1fa8c">code_architecture</span>: {
-        frontend: <span style="color: #50fa7b">"React, Next.js, TypeScript"</span>,
-        backend: <span style="color: #50fa7b">"Java, Python, Node.js"</span>,
-        database: <span style="color: #50fa7b">"PostgreSQL, MongoDB"</span>
+<span style="color: #bb9af7">const</span> <span style="color: #7aa2f7">tom_geo</span> = {
+    <span style="color: #e0af68">code_architecture</span>: {
+        frontend: <span style="color: #9ece6a">"React, Next.js, TypeScript"</span>,
+        backend: <span style="color: #9ece6a">"Java, Python, Node.js"</span>,
+        database: <span style="color: #9ece6a">"PostgreSQL, MongoDB"</span>
     },
-    <span style="color: #f1fa8c">systems_engineering</span>: [
-        <span style="color: #bd93f9">"Computer Networks & Security"</span>, 
-        <span style="color: #bd93f9">"Cloud Native DevOps (AWS/Docker)"</span>, 
-        <span style="color: #bd93f9">"AI/ML Model Integration"</span>
+    <span style="color: #e0af68">systems_engineering</span>: [
+        <span style="color: #7dcfff">"Computer Networks & Security"</span>, 
+        <span style="color: #7dcfff">"Cloud Native DevOps (AWS/Docker)"</span>, 
+        <span style="color: #7dcfff">"AI/ML Model Integration"</span>
     ],
-    <span style="color: #f1fa8c">mission</span>: <span style="color: #ffb86c">"Building scalable, efficient software for 2026."</span>
+    <span style="color: #e0af68">mission</span>: <span style="color: #ff9e64">"Building scalable, efficient software for 2026."</span>
 };
 </pre>
 </td>
@@ -63,19 +60,23 @@
 
 <div align="center"> 
   <a href="https://github.com/Aaduthoma007">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aaduthoma007&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaduthoma007&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&ref=redo" alt="Tom's GitHub Stats" />
+  </a>
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaduthoma007&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/Aaduthoma007">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaduthoma007&layout=compact&theme=tokyonight&hide_border=true&ref=redo" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaduthoma007&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aaduthoma007&theme=tokyonight&hide_border=true&ref=redo" alt="GitHub Streak" />
+  </a>
 
   <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aaduthoma007&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Aaduthoma007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
@@ -89,5 +90,5 @@
 <br/>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&is_sams=true" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&is_sams=true" alt="Dev Quote"/>
 </div>
