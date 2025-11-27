@@ -59,8 +59,8 @@
 <h3 align="center">📊 Analytics</h3>
 
 <div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aaduthoma007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aaduthoma007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
